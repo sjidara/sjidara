@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sjidara
+- 👋 Hi, I’m @Idara
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
